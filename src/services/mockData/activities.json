@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "type": "call",
+    "subject": "Initial Discovery Call",
+    "description": "Discussed current pain points and requirements. Company is looking to modernize their customer management system.",
+    "contactId": 1,
+    "dealId": 1,
+    "activityDate": "2024-02-25T14:30:00Z",
+    "duration": 45,
+    "createdAt": "2024-02-25T14:30:00Z"
+  },
+  {
+    "id": 2,
+    "type": "email",
+    "subject": "Proposal Follow-up",
+    "description": "Sent detailed proposal with pricing options and implementation timeline. Awaiting feedback from technical team.",
+    "contactId": 2,
+    "dealId": 2,
+    "activityDate": "2024-02-24T10:15:00Z",
+    "duration": 15,
+    "createdAt": "2024-02-24T10:15:00Z"
+  },
+  {
+    "id": 3,
+    "type": "meeting",
+    "subject": "Security Requirements Review",
+    "description": "Detailed discussion about security protocols and compliance requirements. Provided additional documentation.",
+    "contactId": 3,
+    "dealId": 3,
+    "activityDate": "2024-02-23T15:00:00Z",
+    "duration": 60,
+    "createdAt": "2024-02-23T15:00:00Z"
+  },
+  {
+    "id": 4,
+    "type": "call",
+    "subject": "ROI Analysis Discussion",
+    "description": "Presented ROI calculations and case studies. CEO showed strong interest in cost savings potential.",
+    "contactId": 4,
+    "dealId": 4,
+    "activityDate": "2024-02-22T11:30:00Z",
+    "duration": 30,
+    "createdAt": "2024-02-22T11:30:00Z"
+  },
+  {
+    "id": 5,
+    "type": "email",
+    "subject": "Competitive Analysis Shared",
+    "description": "Provided detailed comparison with competitor solutions highlighting our unique value propositions.",
+    "contactId": 5,
+    "dealId": 5,
+    "activityDate": "2024-02-21T09:45:00Z",
+    "duration": 20,
+    "createdAt": "2024-02-21T09:45:00Z"
+  },
+  {
+    "id": 6,
+    "type": "meeting",
+    "subject": "Implementation Planning Session",
+    "description": "Worked with their project manager to create detailed implementation timeline and resource requirements.",
+    "contactId": 6,
+    "dealId": 6,
+    "activityDate": "2024-02-20T13:00:00Z",
+    "duration": 90,
+    "createdAt": "2024-02-20T13:00:00Z"
+  },
+  {
+    "id": 7,
+    "type": "call",
+    "subject": "Contract Terms Negotiation",
+    "description": "Discussed contract terms with CFO. Made progress on payment schedule and service level agreements.",
+    "contactId": 7,
+    "dealId": 7,
+    "activityDate": "2024-02-19T16:30:00Z",
+    "duration": 40,
+    "createdAt": "2024-02-19T16:30:00Z"
+  },
+  {
+    "id": 8,
+    "type": "email",
+    "subject": "Integration Documentation",
+    "description": "Sent comprehensive integration guide and API documentation to their technical team for review.",
+    "contactId": 8,
+    "dealId": 8,
+    "activityDate": "2024-02-18T12:20:00Z",
+    "duration": 25,
+    "createdAt": "2024-02-18T12:20:00Z"
+  },
+  {
+    "id": 9,
+    "type": "meeting",
+    "subject": "Fast-Track Implementation Demo",
+    "description": "Demonstrated our rapid deployment capabilities. Operations manager impressed with speed-to-value.",
+    "contactId": 9,
+    "dealId": 9,
+    "activityDate": "2024-02-17T14:45:00Z",
+    "duration": 75,
+    "createdAt": "2024-02-17T14:45:00Z"
+  },
+  {
+    "id": 10,
+    "type": "call",
+    "subject": "Academic Pricing Discussion",
+    "description": "Explained academic discount programs and research institution benefits. Director interested in pilot program.",
+    "contactId": 10,
+    "dealId": 10,
+    "activityDate": "2024-02-16T10:15:00Z",
+    "duration": 35,
+    "createdAt": "2024-02-16T10:15:00Z"
+  },
+  {
+    "id": 11,
+    "type": "email",
+    "subject": "Performance Benchmarks",
+    "description": "Shared detailed performance metrics and benchmark results compared to their current system.",
+    "contactId": 11,
+    "dealId": 11,
+    "activityDate": "2024-02-15T15:30:00Z",
+    "duration": 30,
+    "createdAt": "2024-02-15T15:30:00Z"
+  },
+  {
+    "id": 12,
+    "type": "meeting",
+    "subject": "Final Presentation to Board",
+    "description": "Delivered comprehensive presentation to decision-making board. Received unanimous approval for purchase.",
+    "contactId": 12,
+    "dealId": 12,
+    "activityDate": "2024-02-14T09:00:00Z",
+    "duration": 120,
+    "createdAt": "2024-02-14T09:00:00Z"
+  },
+  {
+    "id": 13,
+    "type": "note",
+    "subject": "Follow-up Required",
+    "description": "Need to schedule follow-up call with technical team next week to address remaining questions about data migration.",
+    "contactId": 8,
+    "dealId": null,
+    "activityDate": "2024-02-13T17:00:00Z",
+    "duration": 10,
+    "createdAt": "2024-02-13T17:00:00Z"
+  },
+  {
+    "id": 14,
+    "type": "call",
+    "subject": "Renewal Discussion",
+    "description": "Initial conversation about renewal options and expansion opportunities for next year.",
+    "contactId": 12,
+    "dealId": null,
+    "activityDate": "2024-02-12T11:45:00Z",
+    "duration": 25,
+    "createdAt": "2024-02-12T11:45:00Z"
+  },
+  {
+    "id": 15,
+    "type": "email",
+    "subject": "Thank You and Next Steps",
+    "description": "Sent thank you email after successful deal closure. Outlined next steps for implementation kickoff.",
+    "contactId": 12,
+    "dealId": 12,
+    "activityDate": "2024-02-11T08:30:00Z",
+    "duration": 15,
+    "createdAt": "2024-02-11T08:30:00Z"
+  }
+]
