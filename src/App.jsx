@@ -1,15 +1,15 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
-import Home from './pages/Home'
+import HomePage from './components/templates/PageLayout'
 import NotFound from './pages/NotFound'
 
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-gray-50">
+      <div>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<HomePage />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
         <ToastContainer
